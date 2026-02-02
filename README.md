@@ -1,3 +1,11 @@
 # super_assignment
 
-Developed with Unreal Engine 5
+Welcome to my awesome assignment :D:D:D:D!!!
+
+Controls:
+WASD - move
+Space - jump
+E - interact
+R - reload
+Left Click - shoot
+Scroll Wheel - change selected slot
