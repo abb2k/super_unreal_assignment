@@ -9,3 +9,5 @@ E - interact \
 R - reload \
 Left Click - shoot \
 Scroll Wheel - change selected slot 
+
+Enemies can only see around the direction they are looking and ofc not through walls :)
